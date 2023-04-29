@@ -1,2 +1,0 @@
-# sanckole.GitHub.io
-blog
