@@ -27,7 +27,7 @@ tucaoUrl: https://ckole.com
 # 必填字段 title: '文本' url: '链接'
 # 可选字段 target: '_blank' 新页面打开 
 menu:
-  - title: Homepage
+  - title: Home
     url: /
   - title: Categorization
     url: /pages/categories.html
