@@ -1,14 +1,14 @@
 ---
 layout: mypost
-title: 友情链接
+title: Links
 ---
-功能未开发
+Functionality not yet available
 
 ```
-名称：{{ site.title }}
-描述：{{ site.description }}
-地址：{{ site.domainUrl }}{{ site.baseurl }}
-头像：{{ site.domainUrl }}{{ site.baseurl }}/static/img/logo.jpg
+Name：{{ site.title }}
+Descriptio：{{ site.description }}
+URL：{{ site.domainUrl }}{{ site.baseurl }}
+Avatar：{{ site.domainUrl }}{{ site.baseurl }}/static/img/logo.jpg
 ```
 
 <ul>

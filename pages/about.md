@@ -1,7 +1,7 @@
 ---
 layout: mypost
-title: 关于我
+title: About me
 ---
-> 博客内容待更新……
+> The blog awaits a refreshing update…
 
-> 如果此站点仍然存在，那么我将会在未来更新该博客，可能是一小段时间，或许更久
+>If this site endures, I shall endeavor to update this blog in the future, be it in a short while or a prolonged span of time
