@@ -29,7 +29,7 @@ tucaoUrl: https://ckole.com
 menu:
   - title: Home
     url: /
-  - title: Categorization
+  - title: Categories
     url: /pages/categories.html
   - title: Search
     url: /pages/search.html
